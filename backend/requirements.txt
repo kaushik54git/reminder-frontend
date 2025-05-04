@@ -9,3 +9,4 @@ Flask-SocketIO
 eventlet
 Groq
 pytz
+gunicorn
