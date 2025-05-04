@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Cors
+Werkzeug
+python-dotenv
+APScheduler
+Flask-SocketIO
+eventlet
+Groq
+pytz
